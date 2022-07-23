@@ -1,3 +1,3 @@
-# Projeto
-Esse projeto foi baseado na aula da Gabriela Spruce!
+# Página Inicial do Instagram
+Desafio de projeto do Bootcamp Santander Full Stack Developer
 
